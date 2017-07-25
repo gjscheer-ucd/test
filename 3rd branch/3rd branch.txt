@@ -1,2 +1,7 @@
 edits
+<<<<<<< HEAD
 V0 edits
+=======
+V1 edits
+V1 edits again
+>>>>>>> origin/3rd_branch.1
