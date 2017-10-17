@@ -3,5 +3,10 @@ edit2
 edit3
 edit4
 try-2, again
+<<<<<<< HEAD
 edit from home on HP 7/26/2017 8:50am
 edit from home on XPS 7/26/2017 9:01am
+=======
+try-3
+try-4
+>>>>>>> origin/Try
